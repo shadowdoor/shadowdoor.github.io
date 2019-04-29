@@ -1,7 +1,7 @@
 # Site settings
 title: TK Blog
 SEOTitle: 天空博客 | TK Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/tk-bg.jpg
 email: shadowdoorr@gmail.com
 description: "可以多一点天马行空"
 keyword: "TK, TK Blog, 天空博客, java、it"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/shadowdoor/shadowdoor.github.io.git" # you code
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "也可以少一点不切实际"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/tk-zp.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
